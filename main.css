@@ -1,0 +1,33 @@
+body {
+    background: #24660547;
+    margin: 0;
+    font-family: "Montserrat", "Avenir";
+}
+
+.square {
+    width: 30%;
+    background-color: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 15%;
+    transition: background 0.6s;
+    -webkit-transition: background 0.6s;
+    -moz-transition: background 0.6s;
+}
+
+#container {
+    margin: 20px auto;
+    max-width: 450px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background: steelblue;
+    margin: 0;
+    font-weight: normal;
+    text-transform: uppercase;
+    padding: 20px 0
+}
+
